@@ -3,8 +3,11 @@ end
 
 fido = dog.new
 fido 
-  
-snoopy = dog.new
+ 
+ class Dog
+end
+fido = Dog.new
+snoopy = Dog.new
 snoopy
 
 lassie = dog.new
