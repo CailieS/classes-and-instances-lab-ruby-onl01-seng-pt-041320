@@ -8,3 +8,4 @@ snoopy = dog.new
 snoopy
 
 lassie = dog.new
+lassie
